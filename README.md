@@ -10,7 +10,7 @@ output: html_document
 <br />
 <p align="center">
   <a href="https://github.com/github_username/Eyetracker-OpenSesame/blob/main/logo-ing-uandes.png">
-    <img src=""\Imágenes\logo-ing-uandes.png"" alt="Logo">
+    <img src="\Pictures\logo-ing-uandes.png" alt="Logo">
   </a>
   
 # Project Title 
