@@ -5,7 +5,13 @@ title: "README"
 author: "Your Name"
 output: html_document
 ---
-
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/github_username/repo_name">
+    <img src="images/logo-ing-uandes.png" alt="Logo">
+  </a>
+  
 # Project Title 
 
 Describe the project and its goals.
