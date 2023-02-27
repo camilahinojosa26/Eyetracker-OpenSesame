@@ -58,7 +58,7 @@ se obtiene 1 solo archivo.csv que contiene a todos los participantes, pero solo 
 
 Un archivo .csv que contiene la informacion en columnas la informacion de parametros especificos de todos los participantes del experimento, por ejemplo si solo se necesita la dilatacion de la pupila, el tiempo de respuesta, la repsuesta que puso el participante y la respuesta correcta se tendran esos valores de todos los participantes pero en un solo archivo, más todos los directorios utilzados anteriormente
 
-## References
+## Referencias
 
 https://osdoc.cogsci.nl/3.3/manual/logging/
 
