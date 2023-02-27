@@ -1,8 +1,7 @@
 
 # Eyetracker-OpenSesame
 
-Este script nace con el fin de procesar los archivos que entrega OpenSesame al realizar un experimento con el eyetracker y covertilos en datos con
-un formato mucho mas amigable de analizar y procesar, los detalles a continuación.
+Este script nace con el fin de procesar los archivos que entrega OpenSesame al realizar un experimento con el eyetracker y transformar los datos a un formato mucho mas amigable de analizar y procesar, los detalles a continuación.
 
 ## Data
 
