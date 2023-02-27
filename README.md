@@ -35,6 +35,7 @@ para identificar que este tiene la informacion del eyetracker.
 
 Luego se crea una carpeta que se llama et-and-os-results (et - eyetracker y os - OpenSesame) se guardan todos los archivos .csv originales y los .tsv que ahora 
 son -et.csv, es decir 
+
 - et-and-os-results --> participante-1.csv participante-1-et.csv
                         participante-2.csv participante-2-et.csv
                         participante-3.csv participante-3-et.csv
@@ -42,9 +43,10 @@ son -et.csv, es decir
 Despues el código continua, y por participante junta la información del eyetracker + la del experimento en Opensesame en un solo archivo llamado 
 all-data-participante-1.csv
 La identificacion de los pares de archivos que van juntos (por ejemplo participante-1.csv participante-1-et.csv ) se hace tambien con expresiones regulares, 
-es por ello que se hace incapie en el nombre de los archivos a la hora empoezar la realización del experimento con los participantes. 
+es por ello que se hace incapie en el nombre de los archivos a la hora empezar la realización del experimento con los participantes. 
 
 el resultado es un nuevo directorio llamado all-results-by-subjects
+
 - all-results-by-subjects --> all-data-participante-1.csv
                               all-data-participante-2.csv
                               all-data-participante-3.csv
@@ -55,7 +57,7 @@ se obtiene 1 solo archivo.csv que contiene a todos los participantes, pero solo 
 
 ## Output
 
-Un archivo .csv que contiene la informacion en columnas la informacion de parametros especificos de todos los participantes del experimento, por ejemplo si solo se necesita la dilatacion de la pupila, el tiempo de respuesta, la repsuesta que puso el participante y la respuesta correcta se tendran esos valores de todos los participantes pero en un solo archivo, más todos los directorios utilzados anteriormente
+Además de los directorios que se crean a medida que avanza el código el ouput final es un archivo .csv que contiene la informacion de parámetros específicos de todos los participantes del experimento, por ejemplo, si solo se necesita los datos de la dilatación de la pupila, el tiempo de respuesta, la respuesta que puso el participante y la respuesta correcta, se tendrán esos valores de todos los participantes pero en un solo archivo.
 
 ## Referencias
 
