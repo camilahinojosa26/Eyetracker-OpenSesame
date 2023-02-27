@@ -1,3 +1,7 @@
+!["logo u"](".\Pictures\logo-ing-uandes.png")
+
+
+
 # Eyetracker-OpenSesame
 
 ---
@@ -9,7 +13,7 @@ output: html_document
 <br />
 <p align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo-ing-uandes.png" alt="Logo">
+    <img src=""\Pictures\logo-ing-uandes.png"" alt="Logo">
   </a>
   
 # Project Title 
