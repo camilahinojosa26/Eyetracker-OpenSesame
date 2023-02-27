@@ -1,17 +1,6 @@
 
 # Eyetracker-OpenSesame
 
----
-"Procesamiento resultados experimento OpenSesame + Eyetracker"
----
-<!-- PROJECT LOGO -->
-<br />
-<p align="center">
-  <a href="https://github.com/github_username/Eyetracker-OpenSesame/blob/main/logo-ing-uandes.png">
-    <img src="\Pictures\logo-ing-uandes.png" alt="Logo">
-  </a>
-  
-
 Este script nace con el fin de procesar los archivos que entrega OpenSesame al realizar un experimento con el eyetracker y covertilos en datos con
 un formato mucho mas amigable de analizar y procesar, los detalles a continuación.
 
