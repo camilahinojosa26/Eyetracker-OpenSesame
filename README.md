@@ -1,6 +1,3 @@
-!["logo u"](".\Pictures\logo-ing-uandes.png")
-
-
 
 # Eyetracker-OpenSesame
 
@@ -12,8 +9,8 @@ output: html_document
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src=""\Pictures\logo-ing-uandes.png"" alt="Logo">
+  <a href="https://github.com/github_username/Eyetracker-OpenSesame/blob/main/logo-ing-uandes.png">
+    <img src=""\Imágenes\logo-ing-uandes.png"" alt="Logo">
   </a>
   
 # Project Title 
