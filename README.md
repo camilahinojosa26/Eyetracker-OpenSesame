@@ -2,7 +2,7 @@
 # Eyetracker-OpenSesame
 
 ---
-title: "Procesamiento resultados experiemto OpenSesame + Eyetracker"
+"Procesamiento resultados experiemto OpenSesame + Eyetracker"
 ---
 <!-- PROJECT LOGO -->
 <br />
